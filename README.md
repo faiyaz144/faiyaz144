@@ -1,5 +1,5 @@
 
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif)
+![MasterHead](https://camo.githubusercontent.com/d939cf52891b2a827ff56b6a016cc4b4091bdb4f22f6b50aa4094699dcc4a1a3/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31352f65372f65332f31356537653330303136366339363264336238613232663630623563616339652e676966)
 <h1 align="center">Hi 👋, I'm Faiyaz</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiyaz144&label=Profile%20views&color=0e75b6&style=flat" alt="faiyaz144" /> </p>
